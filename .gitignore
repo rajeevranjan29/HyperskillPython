@@ -1,0 +1,7 @@
+#Ignore everything
+*
+
+#Except the project files
+!coffee_machine.py
+!bot.py
+
